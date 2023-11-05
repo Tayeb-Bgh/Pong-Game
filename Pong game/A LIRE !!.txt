@@ -1,0 +1,24 @@
+Pour jouer :
+	-Ouvrez "Pong.exe" .
+
+Pour voir le code :
+	-Ouvrez "main.c" .
+
+Pour Compiler le code :
+	1-Telecharger la bibliotheque Raylib via se lien : https://www.raylib.com
+	2-La configurer sur votre IDE.
+	3-Compiler le code dans : main.c 
+
+Pour comprendre le code : 
+	-je vous invite a lire : "Rapport du Projet.docx".
+
+Information sur le jeu :
+	1-Pour le mode Solo :
+		les deplacement se font avec "Z" et "S" (Z pour monter et S pour dessendre) , Pour activer le ralentisseur de balle il faut appuyer sur "Espace" (le ralentisseur divise la 		vitesse de la balle/2 et dure jusqu'au moment ou la balle tape une raquette, apres l'avoir toucher elle retrouve sa vitesse de base)
+	2-Pour le mode Multi :
+		Les déplacement du joueur 1 sont les mêmes que ceux du mode solo, Mais pour le joueur 2 les deplacement se font avec les touches directionnel "Up" et "Down" , Pour activer le 		ralentisseur de balle il faut appuyer sur "Entrer"
+
+Information supplementaire : 
+	-Ce projet a était develloper par "BOUGUERMOUH tayeb" en langage C pendant sa premiere année en licence au premier semestre et remis le 03/02/2023.
+	
+	
